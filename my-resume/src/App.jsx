@@ -225,7 +225,7 @@ const ResumeWebsite = () => {
             <div className={`transition-all duration-1000 ${isVisible.home ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
               <h1 className="text-6xl md:text-8xl font-bold mb-6 leading-tight">
                 <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent animate-pulse">
-                  Melson Douza
+                  Melson Dsouza
                 </span>
               </h1>
               <div className="text-2xl md:text-3xl mb-8 h-12">
